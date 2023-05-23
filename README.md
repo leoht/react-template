@@ -14,7 +14,8 @@ This template uses:
 To create a fresh copy of this project, you can use the tool `degit`:
 
 ```zsh
-npx degit makersacademy/react-template my-project
+npx degit makersacademy/react-template my-project --mode=git
+
 cd my-project
 
 npm install
