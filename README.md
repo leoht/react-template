@@ -21,6 +21,14 @@ cd my-project
 npm install
 ```
 
+If for some reason `degit` doesn't work for you, you can instead follow these
+instructions:
+
+1. Clone this repo into a folder on your machine. eg.
+   `git clone git@github.com:makersacademy/react-template.git my-project-name`
+2. `cd` into that folder `cd my-project-name`
+3. Delete the git history: `rm -rf .git`
+
 The following can all be found under the "scripts" section in your
 `package.json`. You can add more scripts here if you like, and run them with
 `npm run my-script`.
