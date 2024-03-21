@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <Hello name="World" />
+      <Hello name="Léo" />
       <img className="logo" src={makersLogo}></img>
     </>
   );
