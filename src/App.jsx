@@ -5,7 +5,8 @@ import "./App.css";
 function App() {
   return (
     <>
-      <Hello name="Léo" />
+      <Hello name="all" />
+      <p>Welcome to my website!</p>
       <img className="logo" src={makersLogo}></img>
     </>
   );
